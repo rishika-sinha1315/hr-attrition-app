@@ -43,4 +43,5 @@ patterns and predict individual employee risk in real time.
 | OvertimeRisk | Overtime = Yes AND Income < 5000 | Compounding stress factor |
 
 ## How to Run Locally
-1. Clone the repository
+
+**1. Clone the repository**
